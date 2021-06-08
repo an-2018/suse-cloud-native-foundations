@@ -1,0 +1,42 @@
+# suse-cloud-native-foundations
+
+# Resources
+* Building API - Interme
+** https://www.udacity.com/course/designing-restful-apis--ud388
+
+* Git
+** https://classroom.udacity.com/courses/ud123
+
+* CLoud Native
+** https://youtu.be/jc5cY3LoOOI
+** Cloud Native Application Architerture
+*** https://medium.com/walmartglobaltech/cloud-native-application-architecture-a84ddf378f82
+** Pratical Cloud Native what works what doesnt
+*** https://www.youtube.com/watch?v=esaoQPIIiTo
+** Modern Baking in 1500 Microservices
+*** https://www.youtube.com/watch?v=t7iVCIYQbgk
+
+* SUSE
+** https://www.suse.com/
+
+* Devops
+** https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA
+
+* Kubernetes
+** https://azure.microsoft.com/en-us/resources/phippy-goes-to-the-zoo/
+** Full tutorial for biginers
+*** https://www.youtube.com/watch?v=X48VuDVv0do
+
+* Docker
+** Hand Book Freecodecamp
+** https://www.freecodecamp.org/news/the-docker-handbook/#introduction-to-containerization-and-docker
+** Tech world with Nana - Docker full course
+*** https://www.youtube.com/watch?v=X48VuDVv0do
+
+* Linux
+** System Admin full course
+*** https://www.youtube.com/watch?v=wsh64rjnRas&t=3427s
+
+* Python 
+** Pytthon for biginners full course
+*** https://www.youtube.com/watch?v=rfscVS0vtbw
