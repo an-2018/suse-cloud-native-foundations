@@ -23,6 +23,7 @@
 
 * Devops
 ** https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA
+** https://devopsbootcamp.osuosl.org/start-here.html
 
 * Kubernetes
 ** https://azure.microsoft.com/en-us/resources/phippy-goes-to-the-zoo/
